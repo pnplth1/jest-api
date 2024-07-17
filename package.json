@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "poke": "jest --testPathPattern 'tests/pokemon.test.ts'"
   },
   "keywords": [],
   "author": "",
